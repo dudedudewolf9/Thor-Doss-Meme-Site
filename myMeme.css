@@ -1,0 +1,18 @@
+body{
+	padding: 100px;
+	color: #b12c2c;
+	background-color: green;
+	backround-image: url(coolest/Bill.gif);
+	}
+
+a{ 
+	color: rgb(223, 223, 214);
+	text-decoration: none;
+	}
+h2 {
+	font-size: 86px;
+	font-weight: bold;
+	}
+h2:hover {
+	color: url(300, 300, 300)
+	}
