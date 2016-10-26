@@ -12,6 +12,13 @@ h2 {
 	font-size: 86px;
 	font-weight: bold;
 	}
+h1:hover {
+	color: green;
+}
+
 h2:hover {
+	color: green;
+}
+body:hover {
 	color: green;
 }
