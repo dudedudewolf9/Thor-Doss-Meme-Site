@@ -1,8 +1,7 @@
 body{
 	padding: 100px;
 	color: #b12c2c;
-	background-color: green;
-	backround-image: url(xQK8kUkd_400x400.jpeg);
+	background-color: black;
 	}
 
 a{ 
@@ -14,5 +13,5 @@ h2 {
 	font-weight: bold;
 	}
 h2:hover {
-	color: url(300, 300, 300)
+	color: green;
 }
