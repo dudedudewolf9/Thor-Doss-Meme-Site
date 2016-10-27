@@ -3,9 +3,6 @@ body{
 	padding: 100px;
 	color: white;
 	background-color: black;
-	hover {
-		color: green;
-	}
 }
 
 a{ 
@@ -15,4 +12,7 @@ a{
 h2 {
 	font-size: 86px;
 	font-weight: bold;
+}
+h2:hover {
+	color: green;
 }
