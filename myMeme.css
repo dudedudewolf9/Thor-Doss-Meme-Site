@@ -18,3 +18,29 @@ body:hover {
 a:hover {
 	color: #ffffff;
 }
+.wrapper {
+	background: red;
+	margin: 4% auto;
+	padding: 20px;
+	width: 90%;
+}
+.wrapper:after{
+	display: block;
+	clear: both;
+	content: " ";
+	height: 0;
+	overflow: hidden;
+}
+ol{
+	margin: 0;
+}
+ol.one{
+	background: Blue;
+	width: 100%;
+}
+ol.two{
+	background: green;
+	float: left;
+	height: 500px;
+	width: 500px;
+}
