@@ -46,7 +46,7 @@ ol.two{
 }
 img.one{
 	position: fixed;
-	background: black;
+	background-color: black;
 	bottom: 500px;
 	left: 500px;
 }
