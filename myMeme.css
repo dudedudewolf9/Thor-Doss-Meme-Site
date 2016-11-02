@@ -45,8 +45,9 @@ ol.two{
 	width: 500px;
 }
 img.one{
-	position: fixed;
-	background-color: black;
-	bottom: 450px;
-	left: 400px;
+	position: fixed: right;
+	width: 50%;
+	height: 50%;
+	top: 450px;
+	right: 400px;
 }
