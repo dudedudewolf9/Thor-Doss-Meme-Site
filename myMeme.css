@@ -49,3 +49,6 @@ img.one{
 	bottom: 450px;
 	left: 400px;
 }
+body.one{
+	background-color: pink;
+}
