@@ -53,3 +53,7 @@ body.one{
 	background-image= src="http://www.jhallcomics.com/sites/default/files/styles/comic/public/slowpoke.jpg";
 	background: pink;
 }
+a.two{
+	color: #0e1717;
+	text-decoration: none;
+}
