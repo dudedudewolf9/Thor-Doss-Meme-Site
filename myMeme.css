@@ -4,7 +4,7 @@ body{
 	color: #123456;
 	background-color: #000000;
 }
-a {
+a.one{
 	color: #0e1717;
 	text-decoration: none;
 }
