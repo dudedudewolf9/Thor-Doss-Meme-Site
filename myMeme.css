@@ -57,5 +57,8 @@ a.two{
 	text-decoration: none;
 }
 ul.two{
-	color: black;
+	color: blue;
+	background: orange;
+	text-transform: uppercase;
+	text-align: center;
 }
