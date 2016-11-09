@@ -4,7 +4,7 @@ body{
 	color: #123456;
 	background-color: #000000;
 }
-a.two{
+a.one{
 	color: #0e1717;
 	text-decoration: none;
 }
@@ -34,7 +34,7 @@ a:hover {
 ol{
 	margin: 0;
 }
-ol.one{
+ol.two{
 	background: Blue;
 	width: 100%;
 }
