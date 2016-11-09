@@ -4,7 +4,7 @@ body{
 	color: #123456;
 	background-color: #000000;
 }
-a.one{
+a.two{
 	color: #0e1717;
 	text-decoration: none;
 }
@@ -65,7 +65,4 @@ ul.two{
 a.one{
 	color: blue;
 	text-decoration: none;
-}
-a.one:hover{
-	color: #ffffff;
 }
